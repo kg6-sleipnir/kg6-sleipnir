@@ -1,15 +1,10 @@
 - 👋 Hi, I’m @kg6-sleipnir
 
-I am a college student on my way to get my AA degree, then a bachelors in the computer science field.
-For fun, I like to teach myself about programming techniques and am currently learning about machine learning.
+I am currently a college student aiming for a Computer Science degree and sometimes make small projects just for the heck of it. 
 
-So far, I have created several machine learning algorithms from scratch using only the C++ standard library,
-including linear regression, logistic regression, decision trees, and conditional random fields.
-My goal with this project is to create my own AI chatbot that I can hold a conversation with.
-You can track my progress in my Widget repository.
+I gained most of my programming knowledge by forcing myself to create machine learning and algorithms using only the C++ standard library without any prior knowledge of any of the C languages or machine learning.
 
-I also make some other small projects such as Conway's Game of Life and a Sudoku board creator, both created in C.
-
-My favorite programming language is C++ due to my knowledge on how it works. While most of my programming knowledge comes
-from C++, I pride myself on being able to quickly and effectively learn new languages as I code with them.
-For example, before starting on my chatbot, I knew nothing about C++ and forced myself to learn the language as I made progress.
+The original goal of the project was to create a chatbot program that I could have a full conversation with. However, it has been awhile since I have touched the project.
+Although the passion for this project is no longer what it once was, I did manage to create several machine learning algorithms with accuracies comparable to public machine learning libraries. Some of these algorithms include: Linear Regression, Decision Trees, Logistic Regression, and Conditional Random Fields. 
+Some of these algorithms are able to be viewed in the [Widget](https://github.com/kg6-sleipnir/Widget/tree/master/Widget/Machine%20Learning) repository.
+Even though I never finished this project, I am still glad I created what I did because it was a great learning experience.
